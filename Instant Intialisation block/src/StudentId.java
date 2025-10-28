@@ -7,7 +7,7 @@ public class StudentId {
         studentId = idCounter;
     }
     public StudentId(String name) {
-        
+        this.studentName = name;
     }
 }
 
