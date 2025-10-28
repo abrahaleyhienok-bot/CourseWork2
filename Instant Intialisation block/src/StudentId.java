@@ -4,7 +4,7 @@ public class StudentId {
     private static int idCounter = 1000;
     {
         idCounter++;
-        
+        studentId = idCounter;
     }
 }
 
